@@ -80,9 +80,9 @@ ws_anom = "anomaliasTVDI"
 ws_ndwi = "ndwi"
 
 #Datos Conexión
-user = "maie" #Usuario
-passw = "Test2018!" #Contraseña
-ipgeo = "10.77.72.68" #IP del servidor
+user = "xxx" #Usuario
+passw = "xxx" #Contraseña
+ipgeo = "xx.xx.xx.xx" #IP del servidor
 port = "8080" #Puerto
 
 #Crear rutas para procesamiento de datos
