@@ -60,8 +60,8 @@ resxLST,resyLST = 0.008626647658857677925,0.008626647658857677925
 
 
 # create session with the user credentials that will be used to authenticate access to the data
-username = "j.e.rubio"
-password= "N1ngun4."
+username = "xxx"
+password= "xxx"
 
 dataset = ['LST_Day_1km', '500m 16 days NDVI']
 
